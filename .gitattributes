@@ -1,1 +1,3 @@
 *.pbxproj -text
+README.md export-ignore
+CHANGELOG.md export-ignore
