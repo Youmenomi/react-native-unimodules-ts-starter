@@ -1,3 +1,4 @@
+default: 0.1.0
 0.1.0:
   react-native: 0.59.9
   react-native-unimodules: 0.4.1
